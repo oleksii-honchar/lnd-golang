@@ -1,0 +1,8 @@
+go 1.21.1
+
+use (
+	./0-create-module/greetings
+	./0-create-module/hello
+	./0-hello-world
+	./0-re-server
+)
